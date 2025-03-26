@@ -12,6 +12,8 @@ from utils.logger import get_logger
 logger = get_logger()
 
 def main():
+    driver = None
+    
     try:
         driver = selenium_config.get_web_driver()
         driver.get(config.CHATBOT_URL)
