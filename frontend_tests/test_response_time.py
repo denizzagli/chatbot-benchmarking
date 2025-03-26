@@ -47,7 +47,7 @@ def read_input_file():
     return [item["question"] for item in data if "question" in item]
 
 
-def log_response_time(sentence, response, response_time):
+def log_response_time(sentence, response_time):
     logs_dir = os.path.join(os.path.dirname(__file__), "logs")
     os.makedirs(logs_dir, exist_ok=True)
     file_path = os.path.join(logs_dir, "response_times.csv")
