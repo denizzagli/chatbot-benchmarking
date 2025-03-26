@@ -29,3 +29,9 @@ jobs:
         run: |
           cd frontend_tests
           python test_response_time.py
+
+      - name: Upload response time CSV
+        uses: actions/upload-artifact@v3
+        with:
+            name: response_times
+            path: frontend_tests/logs/response_times.csv
