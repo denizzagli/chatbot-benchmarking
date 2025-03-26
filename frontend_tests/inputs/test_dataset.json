@@ -1,0 +1,34 @@
+[
+    {
+        "question": "Give me the info about the order {LG-15467-01-001}.",
+        "answer": "Gegenhalter"
+    },
+    {
+        "question": "Has the material for order {LG-15467-01-001} been ordered?",
+        "answer": "Yes"
+    },
+    {
+        "question": "Has the material for {LG-15467-01-001} already been ordered?",
+        "answer": "Yes"
+    },
+    {
+        "question": "How far is the order {LG-15467-01-001} in the ERP system?",
+        "answer": "From 2022-01-10T07:42:06"
+    },
+    {
+        "question": "At which workstation is order {LG-15467-01-001} currently?",
+        "answer": "WORKSTATION"
+    },
+    {
+        "question": "What is the number of orders for {LG-15467-01-001}?",
+        "answer": 100
+    },
+    {
+        "question": "What does the order {LG-15467-01-001} cost?",
+        "answer": 14.79
+    },
+    {
+        "question": "What is the drawing no for {LG-15467-01-001}?",
+        "answer": "2b89e94f-b06c-49b4-9805-cb9d8a1f7cf6"
+    }
+]
