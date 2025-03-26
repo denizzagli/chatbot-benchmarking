@@ -58,9 +58,9 @@ def log_response_time(sentence, response, response_time):
         writer = csv.writer(f)
         
         if write_header:
-            writer.writerow(["sentence", response, "response_time"])
+            writer.writerow(["sentence", "response", "response_time"])
             
-        writer.writerow([sentence, response_time])
+        writer.writerow([sentence, response, response_time])
 
 
 if __name__ == "__main__":
