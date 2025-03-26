@@ -26,7 +26,7 @@ def main():
         
         for sentence in sentences:
             time_taken, response = selenium_response_timer.get_response_time(driver, sentence)
-            log_response_time(sentence, time_taken)
+            log_response_time(sentence, response, time_taken)
 
     except Exception as e:
         logger.error("Error occured:" + e)
