@@ -36,4 +36,4 @@ def get_response_time(driver, message):
     logger.info("Response timer was ended. " + f"Response time: {response_time:.2f} seconds")
     logger.info("Response timer was ended. " + f"Response of the chatbot: {response_text}")
     
-    return response_time, response_text
+    return response_time

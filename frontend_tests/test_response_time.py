@@ -25,8 +25,8 @@ def main():
         sentences = read_input_file()
         
         for sentence in sentences:
-            time_taken, response = selenium_response_timer.get_response_time(driver, sentence)
-            log_response_time(sentence, response, time_taken)
+            time_taken = selenium_response_timer.get_response_time(driver, sentence)
+            log_response_time(sentence, time_taken)
 
     except Exception as e:
         logger.error("Error occured:" + e)
@@ -58,9 +58,9 @@ def log_response_time(sentence, response, response_time):
         writer = csv.writer(f)
         
         if write_header:
-            writer.writerow(["sentence", "response", "response_time"])
+            writer.writerow(["sentence", "response_time"])
             
-        writer.writerow([sentence, response, response_time])
+        writer.writerow([sentence, response_time])
 
 
 if __name__ == "__main__":
