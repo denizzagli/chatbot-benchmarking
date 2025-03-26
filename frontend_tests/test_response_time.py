@@ -25,7 +25,7 @@ def main():
         sentences = read_input_file()
         
         for sentence in sentences:
-            time_taken = selenium_response_timer.get_response_time(driver, sentence)
+            time_taken, response = selenium_response_timer.get_response_time(driver, sentence)
             log_response_time(sentence, time_taken)
 
     except Exception as e:
@@ -47,7 +47,7 @@ def read_input_file():
     return [item["question"] for item in data if "question" in item]
 
 
-def log_response_time(sentence, response_time):
+def log_response_time(sentence, response, response_time):
     logs_dir = os.path.join(os.path.dirname(__file__), "logs")
     os.makedirs(logs_dir, exist_ok=True)
     file_path = os.path.join(logs_dir, "response_times.csv")
@@ -58,7 +58,7 @@ def log_response_time(sentence, response_time):
         writer = csv.writer(f)
         
         if write_header:
-            writer.writerow(["sentence", "response_time"])
+            writer.writerow(["sentence", response, "response_time"])
             
         writer.writerow([sentence, response_time])
 
