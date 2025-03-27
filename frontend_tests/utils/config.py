@@ -1,6 +1,6 @@
 # Chatbot Configurations
-CHATBOT_USERNAME = "denizzagli1997@gmail.com"
-CHATBOT_PASSWORD = "EGRLWR38NWtoNO"
+CHATBOT_USERNAME = "melisa.ankut@tum.de"
+CHATBOT_PASSWORD = "151EhpJeq1hwPp"
 CHATBOT_URL = "https://prodbot.aperion-analytics.eu/"
 
 # Selenium Configurations
