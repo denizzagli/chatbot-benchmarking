@@ -6,6 +6,7 @@ import json
 from utils import config
 from utils import selenium_login
 from utils import selenium_response_timer
+from utils import selenium_response_text
 from utils import selenium_config
 from utils.logger import get_logger
 
@@ -25,8 +26,8 @@ def main():
         sentences = read_input_file()
         
         for sentence in sentences:
-            response_text = selenium_response_timer.get_response_time(driver, sentence)
-            log_response_time(sentence, response_text)
+            response_text = selenium_response_text.get_response_text(driver, sentence)
+            log_response_text(sentence, response_text)
 
     except Exception as e:
         logger.error("Error occured:" + e)
@@ -47,7 +48,7 @@ def read_input_file():
     return [item["question"] for item in data if "question" in item]
 
 
-def log_response_time(sentence, response_text):
+def log_response_text(sentence, response_text):
     logs_dir = os.path.join(os.path.dirname(__file__), "logs")
     os.makedirs(logs_dir, exist_ok=True)
     file_path = os.path.join(logs_dir, "response_texts.csv")

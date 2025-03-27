@@ -7,7 +7,7 @@ from utils.logger import get_logger
 
 logger = get_logger()
 
-def get_response_time(driver, message):
+def get_response_text(driver, message):
     logger.info("Response timer is starting. Message: " + message)
     
     chat_input = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, "//input[@type='text']")))
