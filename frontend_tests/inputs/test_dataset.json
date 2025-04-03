@@ -1,502 +1,402 @@
 [
     {
-        "question": "What is the company ID for order {60826}?",
-        "question_typo": "Whar is the company ID for ofder {60826}?",
+        "question": "Whar is the company ID for ofder {60826}?",
         "answer": 290
     },
     {
-        "question": "What is the drawing no for {61408}?",
-        "question_typo": "Whst is the drawibv no for {61408}?",
+        "question": "Whst is the drawibv no for {61408}?",
         "answer": "7652bc0e-69a4-4f66-8de3-3abbae5e6aa2"
     },
     {
-        "question": "What is the number of orders for {60019}?",
-        "question_typo": "Whwt is the njjber of orders for {60019}?",
+        "question": "Whwt is the njjber of orders for {60019}?",
         "answer": 20
     },
     {
-        "question": "Where is the article Z622510-9111 Prismo Teil3 stored?",
-        "question_typo": "Wherr is the xeticle Z622510 - 9111 Prismo Teii3 stored?",
+        "question": "Wherr is the xeticle Z622510 - 9111 Prismo Teii3 stored?",
         "answer": NaN
     },
     {
-        "question": "Which materials do I need for order {60018}?",
-        "question_typo": "Which matfriwls do I nefd for order {60018}?",
+        "question": "Which matfriwls do I nefd for order {60018}?",
         "answer": "No Materials"
     },
     {
-        "question": "Which materials do I need for order {LG-15750-01-001}?",
-        "question_typo": "Which mayeriwls do I nwed for orver {LG-15750-01-001}?",
+        "question": "Which mayeriwls do I nwed for orver {LG-15750-01-001}?",
         "answer": "No Materials"
     },
     {
-        "question": "When was the first order with this drawing number 0ad2f9fc-94d8-4b35-a452-ab808b0689d9 placed?",
-        "question_typo": "Whdn was the tirst order with fhis dgawong numgeg 0ad2f9fc - 94d8 - 4f35 - a452 - ab808b0689d9 placed?",
+        "question": "Whdn was the tirst order with fhis dgawong numgeg 0ad2f9fc - 94d8 - 4f35 - a452 - ab808b0689d9 placed?",
         "answer": "2022-02-01"
     },
     {
-        "question": "What does the article Satz Sonderabdeckung Teil II cost?",
-        "question_typo": "Whay xoes the arficlf Satz Sonderabdeckung Teil II cost?",
+        "question": "Whay xoes the arficlf Satz Sonderabdeckung Teil II cost?",
         "answer": 42.73
     },
     {
-        "question": "At which workstation is order {OR-0000-00-17852} currently?",
-        "question_typo": "At whoch workstation is ogder {OR-0000-00-17852} cugrenyly?",
+        "question": "At whoch workstation is ogder {OR-0000-00-17852} cugrenyly?",
         "answer": "WORKSTATION"
     },
     {
-        "question": "What is the number of orders for {LG-16352-01-001}?",
-        "question_typo": "What is the nuhbeg of orwegs for {LG-16352-01-001}?",
+        "question": "What is the nuhbeg of orwegs for {LG-16352-01-001}?",
         "answer": 60
     },
     {
-        "question": "What does the order {LG-15849-01-001} cost?",
-        "question_typo": "What dows the orded {LG-15849-01-001} cost?",
+        "question": "What dows the orded {LG-15849-01-001} cost?",
         "answer": 54.21
     },
     {
-        "question": "At which workstation is order {OR-13445-03-002} currently?",
-        "question_typo": "At which qorksyahion is orded {OR-13445-03-002} cjrrentlu?",
+        "question": "At which qorksyahion is orded {OR-13445-03-002} cjrrentlu?",
         "answer": "WORKSTATION"
     },
     {
-        "question": "What does the order {58659} cost?",
-        "question_typo": "Wuat does the orser {58659} cist?",
+        "question": "Wuat does the orser {58659} cist?",
         "answer": 75.12
     },
     {
-        "question": "What does the order {OR-0000-00-18507} cost?",
-        "question_typo": "What dies the orcer {OR-0000-00-18507} cost?",
+        "question": "What dies the orcer {OR-0000-00-18507} cost?",
         "answer": 51.82
     },
     {
-        "question": "Give me the newest order with the drawing number 668856c8-bf27-4564-8401-5030e60e0409.",
-        "question_typo": "Givr me the newest oeder wifh the drawing number 668856d8 - bf27 - 4564 - 8401 - 5030e60e0409.",
+        "question": "Givr me the newest oeder wifh the drawing number 668856d8 - bf27 - 4564 - 8401 - 5030e60e0409.",
         "answer": "LG-16987-01-001"
     },
     {
-        "question": "What is the status of order {60500}?",
-        "question_typo": "Whag is the ztatuz of order {60500}?",
+        "question": "Whag is the ztatuz of order {60500}?",
         "answer": -1
     },
     {
-        "question": "How far is the order 62228 in the ERP system?",
-        "question_typo": "How far is the odder 62228 in the ERP zysyem?",
+        "question": "How far is the odder 62228 in the ERP zysyem?",
         "answer": -1
     },
     {
-        "question": "What is the company ID for order {59598}?",
-        "question_typo": "Whqt is the company ID for otder {59598}?",
+        "question": "Whqt is the company ID for otder {59598}?",
         "answer": 1247
     },
     {
-        "question": "At which workstation is order {58336} currently?",
-        "question_typo": "At wgich worjsratikn is order {58336} currently?",
+        "question": "At wgich worjsratikn is order {58336} currently?",
         "answer": "WORKSTATION"
     },
     {
-        "question": "Which materials do I need for order {OR-15868-13-008}?",
-        "question_typo": "Whicj materials do I need for ordwr {OR-15868-13-008}?",
+        "question": "Whicj materials do I need for ordwr {OR-15868-13-008}?",
         "answer": "S235JR_Stahlblech_3x1000x2000mm Feinblech kaltgewalzt gefettet DC01-A"
     },
     {
-        "question": "What is the status of order {60541}?",
-        "question_typo": "What is the atztus of orcer {60541}?",
+        "question": "What is the atztus of orcer {60541}?",
         "answer": 100
     },
     {
-        "question": "What does the order {60966} cost?",
-        "question_typo": "Whar dofs the order {60966} cost?",
+        "question": "Whar dofs the order {60966} cost?",
         "answer": 75.67
     },
     {
-        "question": "Where is the article 29/70104 stored?",
-        "question_typo": "Where is the attisle 29 / 70104 stogee?",
+        "question": "Where is the attisle 29 / 70104 stogee?",
         "answer": "Pulverbeschichtung"
     },
     {
-        "question": "Where is the article 622945-9105-020 stored?",
-        "question_typo": "Whdre is the atticlf 622945 - 9105 - 020 etorsd?",
+        "question": "Whdre is the atticlf 622945 - 9105 - 020 etorsd?",
         "answer": "Montage"
     },
     {
-        "question": "Where is the article CuBe2H90 Kupfer stored?",
-        "question_typo": "Whfre is the article CuBe2H90 Kupget qfored?",
+        "question": "Whfre is the article CuBe2H90 Kupget qfored?",
         "answer": NaN
     },
     {
-        "question": "When was the first order with this drawing number 0ad2f9fc-94d8-4b35-a452-ab808b0689d9 placed?",
-        "question_typo": "Whfn was the first order woth fhis drawing number 0ad2e9bc - 94d8 - 4h35 - a452 - ag808n0689r9 placed?",
+        "question": "Whfn was the first order woth fhis drawing number 0ad2e9bc - 94d8 - 4h35 - a452 - ag808n0689r9 placed?",
         "answer": "2022-02-14"
     },
     {
-        "question": "When is the delivery date for order {62334}?",
-        "question_typo": "Whsn is the delivery cate for otder {62334}?",
+        "question": "Whsn is the delivery cate for otder {62334}?",
         "answer": "2010-01-01T00:00:00"
     },
     {
-        "question": "Which articles do I need for order {60176}?",
-        "question_typo": "Which argjcles do I beed for orded {60176}?",
+        "question": "Which argjcles do I beed for orded {60176}?",
         "answer": "No Articles"
     },
     {
-        "question": "What is the drawing no for {LG-16076-03-002}?",
-        "question_typo": "Wmat is the xtawing no for {LG-16076-03-002}?",
+        "question": "Wmat is the xtawing no for {LG-16076-03-002}?",
         "answer": "0ad2f9fc-94d8-4b35-a452-ab808b0689d9"
     },
     {
-        "question": "What is the drawing no for {OR-0000-00-17921}?",
-        "question_typo": "Whah is the dgawinh no for {OR-0000-00-17921}?",
+        "question": "Whah is the dgawinh no for {OR-0000-00-17921}?",
         "answer": "0ad2f9fc-94d8-4b35-a452-ab808b0689d9"
     },
     {
-        "question": "What is the drawing no for {OR-0000-00-18446}?",
-        "question_typo": "Whar is the ddzwing no for {OR-0000-00-18446}?",
+        "question": "Whar is the ddzwing no for {OR-0000-00-18446}?",
         "answer": "0ad2f9fc-94d8-4b35-a452-ab808b0689d9"
     },
     {
-        "question": "What is the drawing no for {LG-16076-04-003}?",
-        "question_typo": "Wgat is the ddaeing no for {LG-16076-04-003}?",
+        "question": "Wgat is the ddaeing no for {LG-16076-04-003}?",
         "answer": "0ad2f9fc-94d8-4b35-a452-ab808b0689d9"
     },
     {
-        "question": "What is the drawing no for {62002}?",
-        "question_typo": "Wbat is the deawong no for {62002}?",
+        "question": "Wbat is the deawong no for {62002}?",
         "answer": "4fc7e643-6638-4aa2-9d27-59d07f03df4b"
     },
     {
-        "question": "Where is order {LG-16553-01-001} stored?",
-        "question_typo": "Wheee is irder {LG-16553-01-001} stored?",
+        "question": "Wheee is irder {LG-16553-01-001} stored?",
         "answer": "WAREHOUSEPOS"
     },
     {
-        "question": "Has the material for {61913} already been ordered?",
-        "question_typo": "Has the katerkal for {61913} already beeh ordedfd?",
+        "question": "Has the katerkal for {61913} already beeh ordedfd?",
         "answer": "Yes"
     },
     {
-        "question": "What is the status of order {LG-16325-01-001}?",
-        "question_typo": "Whar is the status of ofder {LG-16325-01-001}?",
+        "question": "Whar is the status of ofder {LG-16325-01-001}?",
         "answer": 100
     },
     {
-        "question": "Which materials do I need for order {OR-0000-00-18386}?",
-        "question_typo": "Whict materials do I beed for order {OR-0000-00-18386}?",
+        "question": "Whict materials do I beed for order {OR-0000-00-18386}?",
         "answer": "No Materials"
     },
     {
-        "question": "Which materials do I need for order {LG-16422-01-002}?",
-        "question_typo": "Which msteriald do I nsed for otder {LG-16422-01-002}?",
+        "question": "Which msteriald do I nsed for otder {LG-16422-01-002}?",
         "answer": "AlMgSiBi_Rundstange_Ø20x3000mm\n\nEN 573/754-3 T 9 gezogen"
     },
     {
-        "question": "When is the delivery date for order {LG-15542-01-001}?",
-        "question_typo": "When is the drliverj vate for orddr {LG-15542-01-001}?",
+        "question": "When is the drliverj vate for orddr {LG-15542-01-001}?",
         "answer": "2022-03-02T00:00:00"
     },
     {
-        "question": "How far is the order {LG-16777-01-002} in the ERP system?",
-        "question_typo": "How far is the ordfr {LG-16777-01-002} in the ERP syqten?",
+        "question": "How far is the ordfr {LG-16777-01-002} in the ERP syqten?",
         "answer": "From 2022-10-14T11:05:36"
     },
     {
-        "question": "Where is the article 0.070.317.7 stored?",
-        "question_typo": "Whrre is the argiclf 0. 070. 317. 7 shorrd?",
+        "question": "Whrre is the argiclf 0. 070. 317. 7 shorrd?",
         "answer": NaN
     },
     {
-        "question": "Which articles do I need for order {60335}?",
-        "question_typo": "Which articpez do I nerd for lrder {60335}?",
+        "question": "Which articpez do I nerd for lrder {60335}?",
         "answer": "Stange"
     },
     {
-        "question": "When is the delivery date for order {60150}?",
-        "question_typo": "When is the seluvery daye for irder {60150}?",
+        "question": "When is the seluvery daye for irder {60150}?",
         "answer": "2022-05-20T00:00:00"
     },
     {
-        "question": "How far is the order {60605} in the ERP system?",
-        "question_typo": "How far is the ordee {60605} in the ERP sysheh?",
+        "question": "How far is the ordee {60605} in the ERP sysheh?",
         "answer": "From 2022-06-27T11:15:15"
     },
     {
-        "question": "Which materials do I need for order {OR-0000-1764-003}?",
-        "question_typo": "Whicy mqterkals do I need for order {OR-0000-1764-003}?",
+        "question": "Whicy mqterkals do I need for order {OR-0000-1764-003}?",
         "answer": "No Materials"
     },
     {
-        "question": "What is the status of order {61990}?",
-        "question_typo": "What is the statiw of orddr {61990}?",
+        "question": "What is the statiw of orddr {61990}?",
         "answer": 100
     },
     {
-        "question": "What does the order {OR-0000-00-18135} cost?",
-        "question_typo": "Whxt doss the ordwr {OR-0000-00-18135} cost?",
+        "question": "Whxt doss the ordwr {OR-0000-00-18135} cost?",
         "answer": 69.68
     },
     {
-        "question": "What is the drawing no for {58878}?",
-        "question_typo": "Wjat is the ddading no for {58878}?",
+        "question": "Wjat is the ddading no for {58878}?",
         "answer": "0ad2f9fc-94d8-4b35-a452-ab808b0689d9"
     },
     {
-        "question": "When is the delivery date for order {OR-0000-00-18389}?",
-        "question_typo": "When is the delivery dqte for krder {OR-0000-00-18389}?",
+        "question": "When is the delivery dqte for krder {OR-0000-00-18389}?",
         "answer": "2010-01-01T00:00:00"
     },
     {
-        "question": "Give me the newest order with the drawing number 0b902016-7da7-4a83-bcc3-4d2ad67ae3fb.",
-        "question_typo": "Gibe me the newest ogder wifh the drawing number 0g902016 - 7va7 - 4w83 - bcc3 - 4d2ad67ae3fb.",
+        "question": "Gibe me the newest ogder wifh the drawing number 0g902016 - 7va7 - 4w83 - bcc3 - 4d2ad67ae3fb.",
         "answer": "102846-001-01-001"
     },
     {
-        "question": "Which articles do I need for order {62180}?",
-        "question_typo": "Which srtlcles do I need for orcer {62180}?",
+        "question": "Which srtlcles do I need for orcer {62180}?",
         "answer": "No Articles"
     },
     {
-        "question": "What is the number of orders for {59204}?",
-        "question_typo": "What is the nkmbdr of lrddrs for {59204}?",
+        "question": "What is the nkmbdr of lrddrs for {59204}?",
         "answer": 1
     },
     {
-        "question": "How far is the order 61005 in the ERP system?",
-        "question_typo": "How far is the ordfr 61005 in the ERP dystfm?",
+        "question": "How far is the ordfr 61005 in the ERP dystfm?",
         "answer": 100
     },
     {
-        "question": "What does the order {60350} cost?",
-        "question_typo": "Whst dkes the order {60350} cost?",
+        "question": "Whst dkes the order {60350} cost?",
         "answer": 95.25
     },
     {
-        "question": "Which articles do I need for order {LG-15837-01-003}?",
-        "question_typo": "Which aryicoes do I nesd for order {LG-15837-01-003}?",
+        "question": "Which aryicoes do I nesd for order {LG-15837-01-003}?",
         "answer": "No Articles"
     },
     {
-        "question": "What is the company ID for order {61949}?",
-        "question_typo": "What is the conlany ID for ogder {61949}?",
+        "question": "What is the conlany ID for ogder {61949}?",
         "answer": 290
     },
     {
-        "question": "Which materials do I need for order {OR-0000-00-17810}?",
-        "question_typo": "Whoch materials do I need for ordef {OR-0000-00-17810}?",
+        "question": "Whoch materials do I need for ordef {OR-0000-00-17810}?",
         "answer": "No Materials"
     },
     {
-        "question": "What is the drawing no for {61766}?",
-        "question_typo": "Wuat is the srswing no for {61766}?",
+        "question": "Wuat is the srswing no for {61766}?",
         "answer": "0ad2f9fc-94d8-4b35-a452-ab808b0689d9"
     },
     {
-        "question": "Where is order {60290} stored?",
-        "question_typo": "Whdre is order {60290} dyored?",
+        "question": "Whdre is order {60290} dyored?",
         "answer": "WAREHOUSEPOS"
     },
     {
-        "question": "When was the first order with this drawing number 0ad2f9fc-94d8-4b35-a452-ab808b0689d9 placed?",
-        "question_typo": "Wheg was the forst orser with thks drawing number 0ad2f9fc - 94d8 - 4b35 - s452 - xg808f0689d9 placed?",
+        "question": "Wheg was the forst orser with thks drawing number 0ad2f9fc - 94d8 - 4b35 - s452 - xg808f0689d9 placed?",
         "answer": "2022-06-07"
     },
     {
-        "question": "Has the material for {59315} already been ordered?",
-        "question_typo": "Has the material for {59315} alfezdy been orddeed?",
+        "question": "Has the material for {59315} alfezdy been orddeed?",
         "answer": "No"
     },
     {
-        "question": "At which workstation is order {59612} currently?",
-        "question_typo": "At which workstation is otder {59612} currrhtly?",
+        "question": "At which workstation is otder {59612} currrhtly?",
         "answer": "WORKSTATION"
     },
     {
-        "question": "Which materials do I need for order {LG-16837-01-001}?",
-        "question_typo": "Which materials do I neef for ogder {LG-16837-01-001}?",
+        "question": "Which materials do I neef for ogder {LG-16837-01-001}?",
         "answer": "No Materials"
     },
     {
-        "question": "Which articles do I need for order {OR-15868-13-010}?",
-        "question_typo": "Which artkclez do I need for orfer {OR-15868-13-010}?",
+        "question": "Which artkclez do I need for orfer {OR-15868-13-010}?",
         "answer": "No Articles"
     },
     {
-        "question": "At which workstation is order {OR-0000-00-18335} currently?",
-        "question_typo": "At which wotkwtatipn is orfer {OR-0000-00-18335} chrrentlg?",
+        "question": "At which wotkwtatipn is orfer {OR-0000-00-18335} chrrentlg?",
         "answer": "WORKSTATION"
     },
     {
-        "question": "Where is the article 627203-0157-000 stored?",
-        "question_typo": "Wherw is the adficle 627203 - 0157 - 000 shoree?",
+        "question": "Wherw is the adficle 627203 - 0157 - 000 shoree?",
         "answer": "Y 5"
     },
     {
-        "question": "Where is the article 09385 8 stored?",
-        "question_typo": "Wherf is the article 09385 8 ztoded?",
+        "question": "Wherf is the article 09385 8 ztoded?",
         "answer": "Blechbearbeitung"
     },
     {
-        "question": "Which articles do I need for order {62104}?",
-        "question_typo": "Whish qeticles do I need for otder {62104}?",
+        "question": "Whish qeticles do I need for otder {62104}?",
         "answer": "Montageblech für Ventil"
     },
     {
-        "question": "Has the material for {OR-0000-1766-002} already been ordered?",
-        "question_typo": "Has the mwtefial for {OR-0000-1766-002} already been ordegwd?",
+        "question": "Has the mwtefial for {OR-0000-1766-002} already been ordegwd?",
         "answer": "No"
     },
     {
-        "question": "At which workstation is order {61551} currently?",
-        "question_typo": "At wjich worksratupn is order {61551} currently?",
+        "question": "At wjich worksratupn is order {61551} currently?",
         "answer": "WORKSTATION"
     },
     {
-        "question": "How far is the order {60034} in the ERP system?",
-        "question_typo": "How far is the krder {60034} in the ERP systwn?",
+        "question": "How far is the krder {60034} in the ERP systwn?",
         "answer": "From 2022-04-28T08:51:21"
     },
     {
-        "question": "Has the material for {LG-15616-01-001} already been ordered?",
-        "question_typo": "Has the maherizl for {LG-15616-01-001} already bern preered?",
+        "question": "Has the maherizl for {LG-15616-01-001} already bern preered?",
         "answer": "Yes"
     },
     {
-        "question": "What does the article 0.086.875.0 cost?",
-        "question_typo": "Wyat doec the wrtivle 0. 086. 875. 0 ckst?",
+        "question": "Wyat doec the wrtivle 0. 086. 875. 0 ckst?",
         "answer": 42.73
     },
     {
-        "question": "When was the first order with this drawing number 0ad2f9fc-94d8-4b35-a452-ab808b0689d9 placed?",
-        "question_typo": "Wheg was the fifst lrder with this drawing number 0ad2f9fc - 94e8 - 4f35 - a452 - qg808b0689f9 placed?",
+        "question": "Wheg was the fifst lrder with this drawing number 0ad2f9fc - 94e8 - 4f35 - a452 - qg808b0689f9 placed?",
         "answer": "2022-03-18"
     },
     {
-        "question": "What is the company ID for order {LG-16194-01-001}?",
-        "question_typo": "Wuat is the company ID for orwer {LG-16194-01-001}?",
+        "question": "Wuat is the company ID for orwer {LG-16194-01-001}?",
         "answer": 418
     },
     {
-        "question": "At which workstation is order {59021} currently?",
-        "question_typo": "At which workstation is orcer {59021} cudrentlj?",
+        "question": "At which workstation is orcer {59021} cudrentlj?",
         "answer": "WORKSTATION"
     },
     {
-        "question": "What does the order {58856} cost?",
-        "question_typo": "Whqt dkes the irder {58856} cost?",
+        "question": "Whqt dkes the irder {58856} cost?",
         "answer": 85.31
     },
     {
-        "question": "Give me the info about the order {LG-16903-01-002}.",
-        "question_typo": "Gove me the knfo about the krder {LG-16903-01-002}.",
+        "question": "Gove me the knfo about the krder {LG-16903-01-002}.",
         "answer": "S-Bogen  GD42"
     },
     {
-        "question": "What does the order {58970} cost?",
-        "question_typo": "What does the oeder {58970} coqt?",
+        "question": "What does the oeder {58970} coqt?",
         "answer": 26.82
     },
     {
-        "question": "What does the order {60115} cost?",
-        "question_typo": "Wnat dofs the order {60115} cost?",
+        "question": "Wnat dofs the order {60115} cost?",
         "answer": 79.43
     },
     {
-        "question": "At which workstation is order {59258} currently?",
-        "question_typo": "At which wofksratiog is order {59258} currrnhly?",
+        "question": "At which wofksratiog is order {59258} currrnhly?",
         "answer": "WORKSTATION"
     },
     {
-        "question": "Give me the info about the order {59137}.",
-        "question_typo": "Gibe me the info about the ogder {59137}.",
+        "question": "Gibe me the info about the ogder {59137}.",
         "answer": "Holding sheet DC-Unit"
     },
     {
-        "question": "Where is order {OR-0000-00-18227} stored?",
-        "question_typo": "Where is ordwr {OR-0000-00-18227} stlrev?",
+        "question": "Where is ordwr {OR-0000-00-18227} stlrev?",
         "answer": "WAREHOUSEPOS"
     },
     {
-        "question": "What is the status of order {59075}?",
-        "question_typo": "Whxt is the status of ofder {59075}?",
+        "question": "Whxt is the status of ofder {59075}?",
         "answer": 1
     },
     {
-        "question": "What is the company ID for order {LG-15616-10-001}?",
-        "question_typo": "What is the cpmoany ID for ogder {LG-15616-10-001}?",
+        "question": "What is the cpmoany ID for ogder {LG-15616-10-001}?",
         "answer": 534
     },
     {
-        "question": "Where is order {60852} stored?",
-        "question_typo": "Where is krder {60852} stored?",
+        "question": "Where is krder {60852} stored?",
         "answer": "WAREHOUSEPOS"
     },
     {
-        "question": "What is the number of orders for {59268}?",
-        "question_typo": "Whaf is the number of krdegs for {59268}?",
+        "question": "Whaf is the number of krdegs for {59268}?",
         "answer": 1
     },
     {
-        "question": "What does the order {LG-15621-08-005} cost?",
-        "question_typo": "What does the lrder {LG-15621-08-005} codt?",
+        "question": "What does the lrder {LG-15621-08-005} codt?",
         "answer": 15.86
     },
     {
-        "question": "What is the status of order {OR-0000-00-17668}?",
-        "question_typo": "Whxt is the status of orwer {OR-0000-00-17668}?",
+        "question": "Whxt is the status of orwer {OR-0000-00-17668}?",
         "answer": -1
     },
     {
-        "question": "At which workstation is order {OR-0000-2040-006} currently?",
-        "question_typo": "At whidh workstation is order {OR-0000-2040-006} cjrrebtly?",
+        "question": "At whidh workstation is order {OR-0000-2040-006} cjrrebtly?",
         "answer": "WORKSTATION"
     },
     {
-        "question": "What is the drawing no for {LG-15596-01-001}?",
-        "question_typo": "Wnat is the rrawinh no for {LG-15596-01-001}?",
+        "question": "Wnat is the rrawinh no for {LG-15596-01-001}?",
         "answer": "0ad2f9fc-94d8-4b35-a452-ab808b0689d9"
     },
     {
-        "question": "Which articles do I need for order {OR-0000-00-17806}?",
-        "question_typo": "Which aeyicles do I neec for order {OR-0000-00-17806}?",
+        "question": "Which aeyicles do I neec for order {OR-0000-00-17806}?",
         "answer": "No Articles"
     },
     {
-        "question": "Has the material for {59492} already been ordered?",
-        "question_typo": "Has the mxteriai for {59492} wlreaxy been oddwred?",
+        "question": "Has the mxteriai for {59492} wlreaxy been oddwred?",
         "answer": "No"
     },
     {
-        "question": "Where is order {OR-0000-00-18505} stored?",
-        "question_typo": "Whers is ordwr {OR-0000-00-18505} stored?",
+        "question": "Whers is ordwr {OR-0000-00-18505} stored?",
         "answer": "WAREHOUSEPOS"
     },
     {
-        "question": "How many orders with the drawing number dfd0c611-1dd5-4eea-a7f8-dee224166b4b are in the ERP?",
-        "question_typo": "How mahy ordwts dith the erawinn number dfd0c611 - 1rd5 - 4eea - a7v8 - dfe224166f4n are in the ERP?",
+        "question": "How mahy ordwts dith the erawinn number dfd0c611 - 1rd5 - 4eea - a7v8 - dfe224166f4n are in the ERP?",
         "answer": "1"
     },
     {
-        "question": "At which workstation is order {LG-15621-08-001} currently?",
-        "question_typo": "At whicj workstation is krder {LG-15621-08-001} currebyly?",
+        "question": "At whicj workstation is krder {LG-15621-08-001} currebyly?",
         "answer": "WORKSTATION"
     },
     {
-        "question": "What is the number of orders for {OR-0000-00-17891}?",
-        "question_typo": "What is the buhber of ordwgs for {OR-0000-00-17891}?",
+        "question": "What is the buhber of ordwgs for {OR-0000-00-17891}?",
         "answer": 1
     },
     {
-        "question": "What is the drawing no for {58931}?",
-        "question_typo": "Whah is the crwwing no for {58931}?",
+        "question": "Whah is the crwwing no for {58931}?",
         "answer": "0ad2f9fc-94d8-4b35-a452-ab808b0689d9"
     },
     {
-        "question": "Give me the info about the order {OR-0000-00-17667}.",
-        "question_typo": "Give me the ingo zbout the order {OR-0000-00-17667}.",
+        "question": "Give me the ingo zbout the order {OR-0000-00-17667}.",
         "answer": "Sensor halter Leiste"
     },
     {
-        "question": "Where is order {OR-0000-2007-001} stored?",
-        "question_typo": "Where is ordet {OR-0000-2007-001} stkrew?",
+        "question": "Where is ordet {OR-0000-2007-001} stkrew?",
         "answer": "WAREHOUSEPOS"
     }
 ]
